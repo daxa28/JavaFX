@@ -2,8 +2,8 @@
 
 ### 
 
-<img src="./photo_for_readme/1.png" width="600">
-<img src="./photo_for_readme/2.png" width="600">
-<img src="./photo_for_readme/3.png" width="600">
-<img src="./photo_for_readme/4.png" width="600">
-<img src="./photo_for_readme/5.png" width="600">
+<img src="./photo_for_readme/1.PNG" width="600">
+<img src="./photo_for_readme/2.PNG" width="600">
+<img src="./photo_for_readme/3.PNG" width="600">
+<img src="./photo_for_readme/4.PNG" width="600">
+<img src="./photo_for_readme/5.PNG" width="600">
